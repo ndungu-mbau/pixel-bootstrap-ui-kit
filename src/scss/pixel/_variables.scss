@@ -113,7 +113,7 @@ $brand-colors: map-merge((
   "pinterest":    $pinterest,
 ), $brand-colors);
 
-$yiq-text-dark:             $secondary !default;
+$yiq-text-dark:             $gray-200 !default;
 
 // Image Path
 $path--rel      : "/img";
